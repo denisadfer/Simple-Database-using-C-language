@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617803469 source:c:\users\win10\documents\tugas\in221 h (asd) ramos\tr asd asdos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
